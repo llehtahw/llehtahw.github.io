@@ -24,6 +24,7 @@ github_username: llehtahw
 
 # Build settings
 markdown: kramdown
+timezone: Asia/Shanghai
 theme: minima
 plugins:
   - jekyll-feed
